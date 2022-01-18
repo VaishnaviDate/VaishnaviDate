@@ -2,7 +2,6 @@
 
 - 👋 &nbsp;Hi , I'm Vaishnavi Date ..!!
 - 🎓 &nbsp;I’m Computer Science Student.
-- 📌 &nbsp;I’m currently working with GDSC GESCOENGG as a Technical Member.
 - 🌱 &nbsp;I’m currently learning Java and Python.
 - 💬 &nbsp;Ask me about anything. I'm happy to help you all. 
 - 📗 &nbsp;Passionate to Learn new Technologies.
